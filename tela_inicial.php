@@ -17,11 +17,12 @@
 
 
 <body>
-
+    <div>
+    <img class="logo" src="assets/logo.png" alt="">
+    </div>
 
 
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-
     <a class="navbar-brand" href="#">Olper Motors</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado" aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
       <span class="navbar-toggler-icon"></span>
@@ -52,7 +53,7 @@
         </li>
         
         <li class="nav-item">
-          <a class="nav-link disabled" href="http://localhost/xampp/Site_Carro-main/">Sair</a>
+          <a class="nav-link disabled" href="http://localhost/xampp/Site_Carro2-main/">Sair</a>
         </li>
 
       </ul>
@@ -84,12 +85,14 @@
               <div class="carousel-caption d-none d-md-block">
                 <h5></h5>
                 <p>Opala Diplomata 1992</p>
+                <a href="https://github.com/LuizWatanabe2005/Site_carro2" type="button" class="btn btn-secondary btn-lg btn-block">Visualizar</a>
               </div>
             </div>
       
             <div class="carousel-item">
               <div class="carousel-caption d-none d-md-block">
                 <p>Opala Diplomata 1992</p>
+                <a href="https://github.com/LuizWatanabe2005/Site_carro2" type="button" class="btn btn-dark">Visualizar</a>
               </div>
               <img class="d-block w-100" src="https://i0.wp.com/thegarage.com.br/wp-content/uploads/2021/06/IMG_7336-1-scaled.jpg?resize=1536%2C1024&ssl=1" alt="Segundo Slide">
             </div>
@@ -97,6 +100,7 @@
             <div class="carousel-item">
               <div class="carousel-caption d-none d-md-block">
                 <p>Opala Diplomata 1992</p>
+                <a href="https://github.com/LuizWatanabe2005/Site_carro2" type="button" class="btn btn-dark">Visualizar</a>
               </div>
               <img class="d-block w-100" src="https://i0.wp.com/thegarage.com.br/wp-content/uploads/2021/06/IMG_7364-scaled.jpg?resize=1536%2C1024&ssl=1" alt="Terceiro Slide">
             </div>
@@ -104,6 +108,7 @@
             <div class="carousel-item">
               <div class="carousel-caption d-none d-md-block">
                 <p>Opala Diplomata 1992</p>
+                <a href="https://github.com/LuizWatanabe2005/Site_carro2" type="button" class="btn btn-dark">Visualizar</a>
               </div>
               <img class="d-block w-100" src="https://i0.wp.com/thegarage.com.br/wp-content/uploads/2021/06/IMG_7365-scaled.jpg?resize=1536%2C1024&ssl=1" alt="Quarto Slide">
             </div>
@@ -111,6 +116,7 @@
             <div class="carousel-item">
               <div class="carousel-caption d-none d-md-block">
                 <p>Opala Diplomata 1992</p>
+                <a href="https://github.com/LuizWatanabe2005/Site_carro2" type="button" class="btn btn-dark">Visualizar</a>
               </div>
               <img class="d-block w-100" src="https://i0.wp.com/thegarage.com.br/wp-content/uploads/2021/06/IMG_7344-scaled.jpg?resize=1536%2C1024&ssl=1" alt="Quarto Slide">
             </div>
@@ -118,6 +124,7 @@
             <div class="carousel-item">
               <div class="carousel-caption d-none d-md-block">
                 <p>Opala Diplomata 1992</p>
+                <a href="https://github.com/LuizWatanabe2005/Site_carro2" type="button" class="btn btn-dark">Visualizar</a>
               </div>
               <img class="d-block w-100" src="https://i0.wp.com/thegarage.com.br/wp-content/uploads/2021/06/IMG_7376-scaled.jpg?resize=1536%2C1024&ssl=1" alt="Quinto Slide">
             </div>
@@ -125,6 +132,7 @@
             <div class="carousel-item">
               <div class="carousel-caption d-none d-md-block">
                 <p>Opala Diplomata 1992</p>
+                <a href="https://github.com/LuizWatanabe2005/Site_carro2" type="button" class="btn btn-dark">Visualizar</a>
               </div>
               <img class="d-block w-100" src="https://i0.wp.com/thegarage.com.br/wp-content/uploads/2021/06/IMG_7375-scaled.jpg?resize=1536%2C1024&ssl=1" alt="Sexto Slide">
             </div>
@@ -132,6 +140,7 @@
             <div class="carousel-item">
               <div class="carousel-caption d-none d-md-block">
                 <p>Opala Diplomata 1992</p>
+                <a href="https://github.com/LuizWatanabe2005/Site_carro2" type="button" class="btn btn-dark">Visualizar</a>
               </div>
               <img class="d-block w-100" src="https://i0.wp.com/thegarage.com.br/wp-content/uploads/2021/06/IMG_7349-scaled.jpg?resize=1536%2C1024&ssl=1" alt="Sétimo Slide">
             </div>
@@ -139,6 +148,7 @@
             <div class="carousel-item">
               <div class="carousel-caption d-none d-md-block">
                 <p>Opala Diplomata 1992</p>
+                <a href="https://github.com/LuizWatanabe2005/Site_carro2" type="button" class="btn btn-dark">Visualizar</a>
               </div>
               <img class="d-block w-100" src="https://i0.wp.com/thegarage.com.br/wp-content/uploads/2021/06/IMG_7338-scaled.jpg?resize=1536%2C1024&ssl=1" alt="Oitavo Slide">
             </div>
@@ -146,6 +156,7 @@
             <div class="carousel-item">
               <div class="carousel-caption d-none d-md-block">
                 <p>Opala Diplomata 1992</p>
+                <a href="https://github.com/LuizWatanabe2005/Site_carro2" type="button" class="btn btn-dark">Visualizar</a>
               </div>
               <img class="d-block w-100" src="https://i0.wp.com/thegarage.com.br/wp-content/uploads/2021/06/IMG_7366-scaled.jpg?resize=1536%2C1024&ssl=1" alt="Nono Slide">
             </div>
@@ -153,6 +164,7 @@
             <div class="carousel-item">
               <div class="carousel-caption d-none d-md-block">
                 <p>Opala Diplomata 1992</p>
+                <a href="https://github.com/LuizWatanabe2005/Site_carro2" type="button" class="btn btn-dark">Visualizar</a>
               </div>
               <img class="d-block w-100" src="https://i0.wp.com/thegarage.com.br/wp-content/uploads/2021/06/IMG_7359-scaled.jpg?resize=1536%2C1024&ssl=1" alt="Décimo Slide">
             </div>
@@ -180,47 +192,71 @@
   <div class="container">
     <div class="row">
 
+        
+    
+    
+    
+    
         <!-- Card 1 -->
         <div class="col-sm">
-            <div class="card" style="width: 18rem;">
-                <div id="carouselExampleIndicators1" class="carousel slide" data-ride="carousel">
+            
+          <div class="card" style="width: 18rem;">
+              
+              <div id="carouselExampleIndicators1" class="carousel slide" data-ride="carousel">
+                    
                     <ol class="carousel-indicators">
                         <li data-target="#carouselExampleIndicators1" data-slide-to="0" class="active"></li>
                         <li data-target="#carouselExampleIndicators1" data-slide-to="1"></li>
                         <li data-target="#carouselExampleIndicators1" data-slide-to="2"></li>
                     </ol>
+                    
                     <div class="carousel-inner">
+
                         <div class="carousel-item active">
                             <img class="d-block w-100" src="https://i2.wp.com/thegarage.com.br/wp-content/uploads/2023/04/2000-BMW-740IL-a-venda-The-garage-6.jpg?strip=info&w=1500&ssl=1" alt="Primeiro Slide">
                         </div>
+
                         <div class="carousel-item">
                             <img class="d-block w-100" src="https://i0.wp.com/thegarage.com.br/wp-content/uploads/2023/04/2000-BMW-740IL-a-venda-The-garage-11.jpg?strip=info&w=1500&ssl=1" alt="Segundo Slide">
                         </div>
+
                         <div class="carousel-item">
                             <img class="d-block w-100" src="https://i2.wp.com/thegarage.com.br/wp-content/uploads/2023/04/2000-BMW-740IL-a-venda-The-garage-23.jpg?strip=info&w=1500&ssl=1" alt="Terceiro Slide">
                         </div>
+
                     </div>
+
                     <a class="carousel-control-prev" href="#carouselExampleIndicators1" role="button" data-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                         <span class="sr-only">Anterior</span>
                     </a>
+
                     <a class="carousel-control-next" href="#carouselExampleIndicators1" role="button" data-slide="next">
                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
                         <span class="sr-only">Próximo</span>
                     </a>
+
                 </div>
+                
                 <div class="card-body">
+
                     <h5 class="card-title">2000 BMW 740IL – BLINDADO</h5>
                     <p class="card-text">
                         Motor: V8 de 4.4 Litros.</br>
                         Transmissão: Automático de 5 velocidades.</br>
                         Cerca de 110.000 km no hodômetro.
                     </p>
+                    
                     <a href="https://autoesporte.globo.com/carros/noticia/2013/04/classico-do-dia-lotus-omega.ghtml" class="btn btn-primary" target="_blank">Visitar</a>
                 </div>
             </div>
         </div>
 
+        
+        
+        
+        
+        
         <!-- Card 2 -->
         <div class="col-sm">
             <div class="card" style="width: 18rem;">
@@ -262,6 +298,11 @@
             </div>
         </div>
 
+        
+        
+        
+        
+        
         <!-- Card 3 -->
         <div class="col-sm">
             <div class="card" style="width: 18rem;">
@@ -297,6 +338,52 @@
                         Motor: 2.0 de 4 cilindros em linha.</br>
                         Transmissão: manual com 5 velocidades.</br>
                         Cerca de 117.000 km no hodômetro.
+                    </p>
+                    <a href="https://autoesporte.globo.com/carros/noticia/2013/04/classico-do-dia-lotus-omega.ghtml" class="btn btn-primary" target="_blank">Visitar</a>
+                </div>
+            </div>
+        </div>
+
+        
+        
+        
+        
+        
+        <!-- Card 4 -->        
+        <div class="col-sm">
+            <div class="card" style="width: 18rem;">
+                <div id="carouselExampleIndicators1" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        <li data-target="#carouselExampleIndicators1" data-slide-to="0" class="active"></li>
+                        <li data-target="#carouselExampleIndicators1" data-slide-to="1"></li>
+                        <li data-target="#carouselExampleIndicators1" data-slide-to="2"></li>
+                    </ol>
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img class="d-block w-100" src="https://i2.wp.com/thegarage.com.br/wp-content/uploads/2023/04/2000-BMW-740IL-a-venda-The-garage-6.jpg?strip=info&w=1500&ssl=1" alt="Primeiro Slide">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="d-block w-100" src="https://i0.wp.com/thegarage.com.br/wp-content/uploads/2023/04/2000-BMW-740IL-a-venda-The-garage-11.jpg?strip=info&w=1500&ssl=1" alt="Segundo Slide">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="d-block w-100" src="https://i2.wp.com/thegarage.com.br/wp-content/uploads/2023/04/2000-BMW-740IL-a-venda-The-garage-23.jpg?strip=info&w=1500&ssl=1" alt="Terceiro Slide">
+                        </div>
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselExampleIndicators1" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Anterior</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleIndicators1" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Próximo</span>
+                    </a>
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">2000 BMW 740IL – BLINDADO</h5>
+                    <p class="card-text">
+                        Motor: V8 de 4.4 Litros.</br>
+                        Transmissão: Automático de 5 velocidades.</br>
+                        Cerca de 110.000 km no hodômetro.
                     </p>
                     <a href="https://autoesporte.globo.com/carros/noticia/2013/04/classico-do-dia-lotus-omega.ghtml" class="btn btn-primary" target="_blank">Visitar</a>
                 </div>

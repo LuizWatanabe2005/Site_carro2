@@ -1,8 +1,9 @@
-.card { 
-    position: relative;
-    left: 60px;
-    bottom: -40px;
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
 }
+
 
 .carouselExampleFade{
     size: 50px;
@@ -15,4 +16,9 @@
 
 .my-carousel {
     left: -300px;
+}
+
+.logo {
+    position: relative;
+    width: 20px;
 }
