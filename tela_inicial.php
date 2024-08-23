@@ -86,7 +86,7 @@
               <div class="carousel-caption d-none d-md-block">
                 <h5></h5>
                 <p>Opala Diplomata 1992</p>
-                <a href="https://github.com/LuizWatanabe2005/Site_carro2" type="button" class="btn btn-secondary btn-lg btn-block">Visualizar</a>
+                <a href="https://github.com/LuizWatanabe2005/Site_carro2" type="button" class="btn btn-dark">Visualizar</a>
               </div>
             </div>
       
@@ -347,49 +347,135 @@
 
         
         
+        <div class="spacer"></div>
         
         
         
         <!-- Card 4 -->        
         <div class="col-sm">
             <div class="card" style="width: 18rem;">
-                <div id="carouselExampleIndicators1" class="carousel slide" data-ride="carousel">
+                <div id="carouselExampleIndicators4" class="carousel slide" data-ride="carousel">
                     <ol class="carousel-indicators">
-                        <li data-target="#carouselExampleIndicators1" data-slide-to="0" class="active"></li>
-                        <li data-target="#carouselExampleIndicators1" data-slide-to="1"></li>
-                        <li data-target="#carouselExampleIndicators1" data-slide-to="2"></li>
+                        <li data-target="#carouselExampleIndicators4" data-slide-to="0" class="active"></li>
+                        <li data-target="#carouselExampleIndicators4" data-slide-to="1"></li>
+                        <li data-target="#carouselExampleIndicators4" data-slide-to="2"></li>
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img class="d-block w-100" src="https://i2.wp.com/thegarage.com.br/wp-content/uploads/2023/04/2000-BMW-740IL-a-venda-The-garage-6.jpg?strip=info&w=1500&ssl=1" alt="Primeiro Slide">
+                            <img class="d-block w-100" src="https://i2.wp.com/thegarage.com.br/wp-content/uploads/2024/07/2014-jaguar-xf-premium-luxury-venda-compra-the-garage-for-sale-26.jpg?strip=info&w=1500&ssl=1" alt="Primeiro Slide">
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block w-100" src="https://i0.wp.com/thegarage.com.br/wp-content/uploads/2023/04/2000-BMW-740IL-a-venda-The-garage-11.jpg?strip=info&w=1500&ssl=1" alt="Segundo Slide">
+                            <img class="d-block w-100" src="https://i0.wp.com/thegarage.com.br/wp-content/uploads/2024/07/2014-jaguar-xf-premium-luxury-venda-compra-the-garage-for-sale-103-scaled.jpg?resize=1536%2C864&ssl=1" alt="Segundo Slide">
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block w-100" src="https://i2.wp.com/thegarage.com.br/wp-content/uploads/2023/04/2000-BMW-740IL-a-venda-The-garage-23.jpg?strip=info&w=1500&ssl=1" alt="Terceiro Slide">
+                            <img class="d-block w-100" src="https://i0.wp.com/thegarage.com.br/wp-content/uploads/2024/07/2014-jaguar-xf-premium-luxury-venda-compra-the-garage-for-sale-75-scaled.jpg?fit=2400%2C1350&ssl=1" alt="Terceiro Slide">
                         </div>
                     </div>
-                    <a class="carousel-control-prev" href="#carouselExampleIndicators1" role="button" data-slide="prev">
+                    <a class="carousel-control-prev" href="#carouselExampleIndicators4" role="button" data-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                         <span class="sr-only">Anterior</span>
                     </a>
-                    <a class="carousel-control-next" href="#carouselExampleIndicators1" role="button" data-slide="next">
+                    <a class="carousel-control-next" href="#carouselExampleIndicators4" role="button" data-slide="next">
                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
                         <span class="sr-only">Próximo</span>
                     </a>
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title">2000 BMW 740IL – BLINDADO</h5>
+                    <h5 class="card-title">2015 JAGUAR XF PREMIUM LUXURY</h5>
                     <p class="card-text">
-                        Motor: V8 de 4.4 Litros.</br>
-                        Transmissão: Automático de 5 velocidades.</br>
-                        Cerca de 110.000 km no hodômetro.
+                        Motor: 4 Cilindros em linha 2.0.</br>
+                        Transmissão: Automático de 7 velocidades.</br>
+                        Cerca de 103.475 km no hodômetro.
                     </p>
                     <a href="https://autoesporte.globo.com/carros/noticia/2013/04/classico-do-dia-lotus-omega.ghtml" class="btn btn-primary" target="_blank">Visitar</a>
                 </div>
             </div>
         </div>
+
+
+        <!-- Card 5 -->
+        <div class="col-sm">
+            <div class="card" style="width: 18rem;">
+                <div id="carouselExampleIndicators5" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        <li data-target="#carouselExampleIndicators5" data-slide-to="0" class="active"></li>
+                        <li data-target="#carouselExampleIndicators5" data-slide-to="1"></li>
+                        <li data-target="#carouselExampleIndicators5" data-slide-to="2"></li>
+                    </ol>
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img class="d-block w-100" src="https://i0.wp.com/thegarage.com.br/wp-content/uploads/2024/04/2017-porsche-carrera-s-venda-compra-the-garage-for-sale-5-1.jpg?strip=info&w=1500&ssl=1" alt="Primeiro Slide">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="d-block w-100" src="https://i0.wp.com/thegarage.com.br/wp-content/uploads/2024/04/2017-porsche-carrera-s-venda-compra-the-garage-for-sale-2-1.jpg?resize=1536%2C1025&ssl=11" alt="Segundo Slide">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="d-block w-100" src="https://i1.wp.com/thegarage.com.br/wp-content/uploads/2024/04/2017-porsche-carrera-s-venda-compra-the-garage-for-sale-14-1.jpg?strip=info&w=1500&ssl=1" alt="Terceiro Slide">
+                        </div>
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselExampleIndicators5" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Anterior</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleIndicators5" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Próximo</span>
+                    </a>
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">2017 PORSCHE 911 CARRERA S</h5>
+                    <p class="card-text">
+                        Motor:  Boxer Biturbo 3.0</br>
+                        Transmissão: Automática PDK de 7 velocidades</br>
+                        Cerca de 27.700 km no hodômetro.
+                    </p>
+                    <a href="https://autoesporte.globo.com/carros/noticia/2013/04/classico-do-dia-lotus-omega.ghtml" class="btn btn-primary" target="_blank">Visitar</a>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- Card 6 -->
+        <div class="col-sm">
+            <div class="card" style="width: 18rem;">
+                <div id="carouselExampleIndicators6" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        <li data-target="#carouselExampleIndicators6" data-slide-to="0" class="active"></li>
+                        <li data-target="#carouselExampleIndicators6" data-slide-to="1"></li>
+                        <li data-target="#carouselExampleIndicators6" data-slide-to="2"></li>
+                    </ol>
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img class="d-block w-100" src="https://i1.wp.com/thegarage.com.br/wp-content/uploads/2024/03/2015-BMW-640-Gran-Coupe%E2%80%93Blindado-BSS-venda-compra-the-garage-for-sale-8-of-18.jpg?strip=info&w=1500&ssl=1" alt="Primeiro Slide">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="d-block w-100" src="https://i0.wp.com/thegarage.com.br/wp-content/uploads/2024/03/2015-BMW-640-Gran-Coupe-a-venda-the-garage-for-sale-6.jpg?strip=info&w=1500&ssl=1" alt="Segundo Slide">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="d-block w-100" src="https://i0.wp.com/thegarage.com.br/wp-content/uploads/2024/03/2015-BMW-640-Gran-Coupe%E2%80%93Blindado-BSS-venda-compra-the-garage-for-sale-16-of-18.jpg?strip=info&w=1500&ssl=1" alt="Terceiro Slide">
+                        </div>
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselExampleIndicators6" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Anterior</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleIndicators6" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Próximo</span>
+                    </a>
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">2015 BMW 640i GRAN COUPÉ BLINDADO</h5>
+                    <p class="card-text">
+                        Motor: 3.0L 6 cilindros Twin Turbo 24 válvulas.</br>
+                        Transmissão: Automática de 8 velocidades com modo manual.</br>
+                        Cerca de 50.000 km no hodômetro.
+                    </p>
+                    <a href="https://autoesporte.globo.com/carros/noticia/2013/04/classico-do-dia-lotus-omega.ghtml" class="btn btn-primary" target="_blank">Visitar</a>
+                </div>
+            </div>
+        </div>
+
 
     </div>
 </div>
@@ -422,6 +508,10 @@
                     <p>Sobre nós</p>
                     <p>Suporte</p>
         </div>
+
+        <div class="direitos">
+          <p>©TODOS OS DIREITOS RESERVADOS OLP 2024</p>
+        </div>      
 
     </div>
 </div>
