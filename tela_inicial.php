@@ -54,7 +54,7 @@
         </li>
         
         <li class="nav-item">
-          <a class="nav-link disabled" href="http://localhost/xampp/Site_Carro2-main/">Sair</a>
+          <a class="nav-link disabled" href="http://localhost/xampp/Site_Carro2-main/index.php">Sair</a>
         </li>
 
       </ul>
